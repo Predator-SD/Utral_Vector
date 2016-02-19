@@ -1,5 +1,5 @@
 package UV.API;
 
-class Vec3D {
+public class Vec3D {
 
 }

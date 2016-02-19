@@ -1,5 +1,5 @@
 package UV.API;
 
-class T3D {
+public class T3D {
 
 }
