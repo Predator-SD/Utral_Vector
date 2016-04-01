@@ -6,7 +6,7 @@ public class Welcome {
 		System.out.println("|   Utral Vector   |");
 		System.out.println("====================");
 		System.out.println("Debug Area Below:");
-		double test=0;
+		double test=2.12756;
 		System.out.println(test);
 		double[] a=new double[4];
 		a[0]=2;
